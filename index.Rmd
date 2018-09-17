@@ -19,7 +19,7 @@ options(htmltools.dir.version = FALSE)
 class: left, middle
 
 # Intro
-Myriad! Algo
+Myriad!
 
 
 
