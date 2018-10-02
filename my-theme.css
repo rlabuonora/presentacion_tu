@@ -7,13 +7,6 @@
 /* AZUL     <- "#2974B4" */
 /* VIOLETA  <- "#865eae" */
 
-
-
-
-p {
-  color: red;
-}
-
 .large { font-size: 130% }
 
 @font-face {
@@ -42,7 +35,7 @@ body {
   text-shadow: none;
 }
 .title-slide h2, .title-slide h3 {
-  color: red; 
+
   line-height: 1.5em;
 }
 
