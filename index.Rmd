@@ -38,11 +38,13 @@ indicador_agrupado <- function(df, indicador) {
 }
 ```
 
-class: left
 
+
+background-image: url("background.png")
 
 
 # Presentación
+
 
 - Importancia de usar datos objetivos para tomar definiciones de asignación de recursos
 
@@ -60,6 +62,8 @@ class: left
 
 ---
 
+background-image: url("background.png")
+
 # Metodología
 
 - PCA
@@ -71,6 +75,9 @@ class: left
 
 
 ---
+
+background-image: url("background.png")
+
 
 # Metodología (2)
 
@@ -86,6 +93,8 @@ class: left
 
 ---
 
+background-image: url("background.png")
+
 # Resultados
 
 - Dos departamentos conforman un grupo de un departamento cada uno:
@@ -100,6 +109,8 @@ class: left
 - Se diferencian sobre todo por la población
 
 ---
+
+background-image: url("background.png")
 
 ## Rezagados:
 
@@ -122,6 +133,8 @@ deptos %>%
 
 ---
 
+background-image: url("background.png")
+
 ## Despegados:
 
 .pull-left[
@@ -141,6 +154,8 @@ deptos %>%
 
 ---
 
+background-image: url("background.png")
+
 ## Intermedios
 
 .pull-left[
@@ -157,6 +172,7 @@ deptos %>%
 ]
 ---
 
+background-image: url("background.png")
 
 
 # PIB per Cápita
@@ -180,7 +196,11 @@ pib
 
 ---
 
+background-image: url("background.png")
+
 # IDD
+
+
 
 .pull-left[
 Despegados tiene mayores valores de PIB per cápita, rezagado e intermedio tienen valores similares
@@ -199,6 +219,8 @@ idd
 ]
 
 ---
+
+background-image: url("background.png")
 
 # Subempleo
 
@@ -219,6 +241,8 @@ sub
 
 
 ---
+
+background-image: url("background.png")
 
 # Informalidad
 

@@ -24,10 +24,13 @@ body {
   background-image: url(caratula.png);
   background-size: cover;
 }
-  
+
+
 body {
   
   font-family: 'MyriadPro';
+  
+ 
 }
 
 .title-slide h1 {
