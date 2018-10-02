@@ -112,7 +112,7 @@ background-image: url("background.png")
 
 background-image: url("background.png")
 
-## Rezagados:
+# Rezagados:
 
 .pull-left[
 
@@ -135,7 +135,7 @@ deptos %>%
 
 background-image: url("background.png")
 
-## Despegados:
+# Despegados:
 
 .pull-left[
 ```{r, echo = FALSE}
@@ -156,7 +156,7 @@ deptos %>%
 
 background-image: url("background.png")
 
-## Intermedios
+# Intermedios
 
 .pull-left[
 ```{r, echo = FALSE}

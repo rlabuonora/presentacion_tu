@@ -26,13 +26,6 @@ body {
 }
 
 
-body {
-  
-  font-family: 'MyriadPro';
-  
- 
-}
-
 .title-slide h1 {
   color: #999B9E;
   text-shadow: none;
@@ -45,4 +38,9 @@ body {
 .title-slide h1, .title-slide h2, .title-slide h3 {
   margin-left: 350px;
   text-shadow: none;
+}
+
+h1 {
+  margin-left: 200px;
+  margin-top: 50px;
 }
