@@ -12,5 +12,18 @@ output:
       countIncrementalSlides: false
 ---
 
-Hola
+# Flujo de Trabajo 1
+
+Add, commit, push.
+
+```{bash}
+ls flujo_1
+
+```
+
+```{bash}
+cat flujo_1/main.R
+```
+
+# Hacer un cambio, agregarlo y commitearlo
 
